@@ -5,4 +5,5 @@ steps:
   image: microsoft/dotnet:sdk
   commands:
   - dotnet pack
+  - dotnet nuget push Guard.1.0.0.nupkg --api-key 84accc81-18a8-3be7-91d5-638111624f1b --source https://repository.decryptology.net/repository/Nuget/index.json
 
