@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Guard
+namespace GuardLibrary
 {
     /// <summary>
     /// Condition ensure class.

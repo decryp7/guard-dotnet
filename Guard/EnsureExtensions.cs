@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.IO;
 
-namespace Guard
+namespace GuardLibrary
 {
     /// <summary>
     /// Ensure extension methods to include more checking mechanism

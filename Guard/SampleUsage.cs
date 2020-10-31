@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Reflection.Metadata.Ecma335;
 
-namespace Guard
+namespace GuardLibrary
 {
     public class SampleUsage
     {

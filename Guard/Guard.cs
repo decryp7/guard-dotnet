@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Guard
+namespace GuardLibrary
 {
     /// <summary>
     /// Static class to expose the sanity check framework.
