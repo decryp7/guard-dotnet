@@ -1,0 +1,8 @@
+kind: pipeline
+
+steps:
+- name: compile
+  image: microsoft/dotnet:sdk
+  commands:
+  - sh build.sh
+
