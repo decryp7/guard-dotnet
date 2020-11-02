@@ -1,7 +1,7 @@
 kind: pipeline
 
 steps:
-- name: compile
+- name: build
   image: microsoft/dotnet:sdk
   environment:
     nuget_api_key:
